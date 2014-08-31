@@ -2,7 +2,7 @@
 Contributors: andygi
 Author: andygi
 Author URI: http://www.gekode.co.uk
-Tags: item lists, wish list, wishlist, posts and pages bookmark
+Tags: item lists, wish list, wishlist, posts and pages bookmark, favorite, bookmark, ajax
 Requires at least: 3.9.0
 Tested up to: 3.9
 Stable tag: 0.1
