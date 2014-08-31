@@ -1,6 +1,7 @@
 === My Wish List ===
-Contributors: AndyGi
-Donate link: http://www.gekode.co.uk
+Contributors: andygi
+Author: andygi
+Author URI: http://www.gekode.co.uk
 Tags: item lists, wish list, wishlist, posts and pages bookmark
 Requires at least: 3.9.0
 Tested up to: 3.9
@@ -34,26 +35,21 @@ There are two ways:
 1. by Shortcode
 if you needs a single button in a page or post or product sheet, just write 
 
-```php
-[show_gd_mylist_btn] 
-```
+`[show_gd_mylist_btn]`
 in the content
 
 2. by code into theme
 if you needs to put the buttom in themes code, just write 
 
-```php
-<?php do_action('gd_mylist_btn'); ?>
-```
+`<?php do_action('gd_mylist_btn'); ?>`
+
 where do you want that button will show it
 
 = How call myList's list? =
 
 you can show MyList list by shortcode, just create a page (eg: myList) and put into the content the shortcode
 
-```php
-[show_gd_mylist_list]
-```
+`[show_gd_mylist_list]`
 
 = Can I Template customization? =
 
