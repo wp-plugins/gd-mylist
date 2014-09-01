@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: GD Mylist
-Plugin URI: 
+Plugin URI: https://github.com/andygi/gd-mylist
 Description: Create mylist items of posts and pages
 Version: 0.1
 Author: Andy Greco
