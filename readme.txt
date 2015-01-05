@@ -139,6 +139,9 @@ Minial **list** html syntax:
 == Changelog ==
 
 = 0.2.1 =
+* Fix view problem on wishlist’s list page
+
+= 0.2 =
 * Add login/no login case
 * Now you can put the button into the content
 
